@@ -73,6 +73,16 @@ Before diving into the MetaQuest adventure, make sure you have the following:
 - **Node.js** and **npm** installed
 - An Ethereum wallet (e.g., **Metamask**)
 - test Polygon Matics
+- you need to give it an OpenAI API key for the testbot to work
+- for Video calling we have use Aroga.io so you need to give it the agora io key in every 24 hours for free WebRTC services
+### To run
+- go to the Server Folder
+- do npm i
+- then nodemon start
+- just go to the Client folder and 
+- npm i
+- npm start
+  
 
 For detailed installation and setup instructions, please refer to our comprehensive [documentation](docs/README.md).
 
