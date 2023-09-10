@@ -1,6 +1,6 @@
-# 🌟 Welcome to MetaVerse Hub 🌍
+# 🌟 Welcome to MetaQuest 🌍
 
-MetaVerse Hub is not just another virtual world; it's a pioneering leap forward in online gaming and social interaction, offering players an unparalleled experience in the metaverse of the future. 🚀
+MetaQuest is not just another virtual world; it's a pioneering leap forward in online gaming and social interaction, offering players an unparalleled experience in the metaverse of the future. 🚀
 
 ## 🔮 What Sets Us Apart?
 
@@ -34,8 +34,8 @@ In our real-time 3D online multiplayer metaverse, we've seamlessly integrated **
 ## Contracts
 
 Token Game Contract
-- 0xb7bc435345bf3FD3167Ba76d779a5537126b6165
-- Explore [Mumbai PolygonScan Log](https://mumbai.polygonscan.com/address/0xb7bc435345bf3FD3167Ba76d779a5537126b6165)
+- 0xBF89d83f7D6d63Ee92cDe80C5E0f789d676A2483
+- Explore [Mumbai PolygonScan Log](https://mumbai.polygonscan.com/address/0xBF89d83f7D6d63Ee92cDe80C5E0f789d676A2483)
   
 ## 🔧 Tech Stack
 
@@ -61,16 +61,18 @@ Token Game Contract
 - **Drei**
 - **React Three Fiber**
 - **Jotai**
+- **Machine Learning**
+- **OpenCV**
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-Before diving into the MetaVerse Hub adventure, make sure you have the following:
+Before diving into the MetaQuest adventure, make sure you have the following:
 
 - **Node.js** and **npm** installed
 - An Ethereum wallet (e.g., **Metamask**)
-- [Additional prerequisites if any]
+- test Polygon Matics
 
 For detailed installation and setup instructions, please refer to our comprehensive [documentation](docs/README.md).
 
@@ -83,7 +85,7 @@ For detailed installation and setup instructions, please refer to our comprehens
 
 ## Video
 
-<a href="https://www.youtube.com/watch?v=8EJbAq01O4U" target="_blank">
+<a href="https://youtu.be/rjnMCxGT0Rc?si=YXl6y07iDTueHQ9q" target="_blank">
   <img src="https://img.youtube.com/vi/8EJbAq01O4U/maxresdefault.jpg" width="500" alt="Youtube Video">
 </a>
 
@@ -93,14 +95,68 @@ We welcome contributions from developers, designers, and creators. Check out our
 
 ## 📝 License
 
-MetaVerse Hub is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+MetaQuest is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Inspiration
+
+MetaQuest draws its inspiration from the challenging times of the COVID-19 pandemic when students missed their campus life and the cherished connections they had with friends. We recognized the deep longing for the campus environment and the vibrant social interactions that students yearned for. It was this shared longing that fueled our vision.
+
+Our inspiration stemmed from the desire to recreate the campus experience in a digital realm, allowing students to relive those memorable moments. MetaQuest was conceived as a place where students could:
+
+- Reconnect with the architecture and atmosphere of their campus, evoking a sense of nostalgia.
+- Play games and engage in challenges with friends and fellow students, just like they would on campus.
+- Initiate video chats, recreating the spontaneous and meaningful interactions they once had in person.
+
+For incoming freshmen, MetaQuest offers a unique opportunity to get a taste of campus life before stepping foot on campus. It's not just about recreating a physical space; it's about rekindling the spirit of campus life and forging lasting connections.
+
+## What it does
+
+MetaQuest serves as a digital bridge between students and their campus experience. It allows them to:
+
+- Immerse themselves in a faithful digital recreation of their campus, reliving its beauty and architecture.
+- Engage in a wide array of games and challenges with their friends and fellow students, just like they would on campus.
+- Initiate video chats, recreating the spontaneous and meaningful interactions they once had in person.
+
+In essence, MetaQuest encapsulates the essence of campus life, providing a space where students can bond, have fun, and create memories, regardless of physical distance.
+
+## How we built it
+
+The development of MetaQuest involved a fusion of innovative technologies and creative thinking. We harnessed:
+
+- **Blockchain Technology**: To enable secure asset ownership and token transfers, creating a decentralized in-game economy.
+- **Immersive 3D Graphics**: Utilizing Three.js to recreate campus environments in stunning detail.
+- **Real-time Communication**: Integrating WebRTC and Agora.io to foster meaningful connections through video chats.
+- **Ethereum Integration**: Seamlessly connecting Ethereum wallets via Metamask for blockchain features.
+- **Dynamic Challenges**: Designing and implementing engaging challenges to enhance the spirit of camaraderie.
+- **Machine Learning**: Incorporating cutting-edge Machine Learning chatbot to provide information, assistance, and fun conversations.
+
+## Challenges we ran into
+
+The development of MetaQuest came with its set of challenges. We encountered complexities in seamlessly integrating blockchain technology while ensuring security and transparency. Crafting realistic 3D environments demanded meticulous attention to detail. Creating a responsive and high-quality real-time communication system presented its own unique hurdles. Integrating a Machine Learning chatbot to provide a seamless and helpful experience was also a significant task.
+
+Despite these challenges, our dedicated team persevered, leading to the creation of a robust and immersive platform that captures the essence of campus life.
+
+## Accomplishments that we're proud of
+
+We take immense pride in several accomplishments:
+
+- Seamlessly integrating blockchain technology, enabling secure asset ownership and token transfers.
+- Crafting stunningly realistic 3D graphics, bringing MetaQuest's campus environments to life.
+- Fostering meaningful connections through an intuitive real-time communication system.
+- Designing dynamic challenges that have added an exciting and communal dimension to the platform.
+- Successfully integrating a Machine Learning chatbot to enhance user interactions and provide valuable information and assistance.
+
+## What we learned
+
+The journey of creating MetaQuest has been a profound learning experience. We gained insights into
 
 👥 Meet the Team
-Meet the talented individuals behind MetaVerse Hub:
+Meet the talented individuals behind MetaQuest:
 
 Himanshu Sharma | LCS2022023 | [GitHub](https://github.com/Him7n)
 Roopesh S | LCB2022032 | [GitHub](https://github.com/TechWizard9999)
+Aviral Katiyaar | [GitHub](https://github.com/TechWizard9999)
 
-These dedicated team members have worked tirelessly to bring the MetaVerse Hub vision to life. Say hello to them on GitHub! 🌟
+These dedicated team members have worked tirelessly to bring the MetaQuest vision to life. Say hello to them on GitHub! 🌟
 
-Enjoy your journey in the MetaVerse Hub! 🚀🌌🌐
+Enjoy your journey in MetaQuest! 🚀🌌🌐
